@@ -7,13 +7,13 @@ about:
   head: 2f76e19
   archived: false
   latestVersion: 0.4.0
-  collectedAt: 2026-09-04T19:37:17Z
+  collectedAt: 2026-09-04T20:54:07Z
 timeline:
   created: 2023-02-07
   lastCommit: 2026-09-04
   lastRelease: 2026-08-31
 popularity:
-  star: 34426
+  star: 34428
   watcher: 91
   fork: 1629
   release: 21
@@ -90,5 +90,83 @@ total:
   openIssue: 75
   commit: 9196
 ---
+path: /home/runner/.x-repo/github.com/lightpanda-io/browser
+collectedAt: 2026-09-04T20:54:10Z
+loc:
+  Zig:
+    code: 166147
+    comments: 26108
+    blanks: 27766
+    files: 570
+  Html:
+    code: 9130
+    comments: 886
+    blanks: 3320
+    files: 425
+  Rust:
+    code: 3203
+    comments: 241
+    blanks: 322
+    files: 7
+  JavaScript:
+    code: 1017
+    comments: 102
+    blanks: 137
+    files: 76
+  Python:
+    code: 148
+    comments: 11
+    blanks: 0
+    files: 3
+  Sh:
+    code: 98
+    comments: 48
+    blanks: 14
+    files: 1
+  Makefile:
+    code: 93
+    comments: 41
+    blanks: 24
+    files: 1
+  Nix:
+    code: 72
+    comments: 5
+    blanks: 14
+    files: 1
+  Dockerfile:
+    code: 54
+    comments: 13
+    blanks: 17
+    files: 1
+  Toml:
+    code: 54
+    comments: 8
+    blanks: 9
+    files: 4
+  Go:
+    code: 41
+    comments: 0
+    blanks: 7
+    files: 1
+  Json:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 540
+    blanks: 175
+    files: 8
+  Text:
+    code: 0
+    comments: 21815
+    blanks: 0
+    files: 1
+total:
+  code: 217747
+  comments: 53741
+  blanks: 37924
+  files: 1100
 ---
 
