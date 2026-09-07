@@ -2,25 +2,25 @@ about:
   description: "Lightpanda: the headless browser designed for AI and automation"
   license: AGPL-3.0
   homepage: https://lightpanda.io
-  head: b21ec60
+  head: 909108e
   archived: false
   latestVersion: "0.4.0"
-  collectedAt: 2026-09-07T06:19:07Z
+  collectedAt: 2026-09-07T18:14:57Z
 timeline:
   created: 2023-02-07
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-31
 popularity:
-  star: 34605
+  star: 34747
   watcher: 94
-  fork: 1641
+  fork: 1644
   release: 21
   contributor: 63
-  pullRequest: 2894
-  issue: 522
+  pullRequest: 2898
+  issue: 524
 language:
-  Zig: 8124699
-  HTML: 1976023
+  Zig: 8238044
+  HTML: 1985531
   Linker Script: 307886
   Rust: 134657
   JavaScript: 39086
@@ -30,77 +30,77 @@ language:
   Dockerfile: 3194
   Nix: 1974
   Go: 1143
-totalBytes: 10608374
+totalBytes: 10731227
 recent:
   last30d:
     since: 2026-08-08
     release: 2
-    mergedPR: 198
-    openPR: 22
-    closedIssue: 20
-    openIssue: 10
-    commit: 0
+    mergedPR: 208
+    openPR: 16
+    closedIssue: 25
+    openIssue: 5
+    commit: 399
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 396
-    openPR: 23
-    closedIssue: 36
-    openIssue: 16
-    commit: 0
+    mergedPR: 406
+    openPR: 17
+    closedIssue: 41
+    openIssue: 11
+    commit: 802
   last90d:
     since: 2026-06-09
     release: 7
-    mergedPR: 575
-    openPR: 24
-    closedIssue: 65
-    openIssue: 19
-    commit: 0
+    mergedPR: 585
+    openPR: 18
+    closedIssue: 70
+    openIssue: 14
+    commit: 1270
   last180d:
     since: 2026-03-11
     release: 13
-    mergedPR: 1228
-    openPR: 24
-    closedIssue: 190
-    openIssue: 49
-    commit: 0
+    mergedPR: 1238
+    openPR: 18
+    closedIssue: 195
+    openIssue: 44
+    commit: 3007
   last360d:
     since: 2025-09-12
     release: 20
-    mergedPR: 1866
-    openPR: 24
-    closedIssue: 248
-    openIssue: 60
-    commit: 0
+    mergedPR: 1876
+    openPR: 18
+    closedIssue: 253
+    openIssue: 55
+    commit: 4509
   last720d:
     since: 2024-09-17
     release: 20
-    mergedPR: 2458
-    openPR: 24
-    closedIssue: 369
-    openIssue: 73
-    commit: 8277
+    mergedPR: 2468
+    openPR: 18
+    closedIssue: 376
+    openIssue: 68
+    commit: 8314
 total:
   release: 21
-  mergedPR: 2629
-  openPR: 24
-  closedIssue: 447
-  openIssue: 75
-  commit: 9231
+  mergedPR: 2639
+  openPR: 18
+  closedIssue: 454
+  openIssue: 70
+  commit: 9268
 ---
 path: /home/runner/.x-repo/github.com/lightpanda-io/browser
-collectedAt: 2026-09-07T06:19:12Z
+collectedAt: 2026-09-07T18:15:03Z
 loc:
   Zig:
-    code: 166519
-    comments: 26172
-    blanks: 27847
-    files: 571
+    code: 168479
+    comments: 26559
+    blanks: 28193
+    files: 573
   Html:
-    code: 9145
-    comments: 892
-    blanks: 3326
-    files: 426
+    code: 9171
+    comments: 895
+    blanks: 3335
+    files: 430
   Rust:
     code: 3296
     comments: 249
@@ -153,8 +153,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 540
-    blanks: 175
+    comments: 546
+    blanks: 176
     files: 8
   Text:
     code: 0
@@ -162,15 +162,15 @@ loc:
     blanks: 0
     files: 1
 total:
-  code: 218485
-  comments: 53999
-  blanks: 38059
-  files: 1102
+  code: 220621
+  comments: 54420
+  blanks: 38437
+  files: 1108
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:19:13+00:00
+  collectedAt: 2026-09-07T18:15:05+00:00
   platform:
     darwin/arm64:
       name:  lightpanda-aarch64-macos
