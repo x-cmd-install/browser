@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 175240560,
       "digest": "sha256:bb9db4789b28a80d3a990603a12de803258e0158c1ab4fb662a5642719965b34",
-      "download_count": 8,
+      "download_count": 61,
       "created_at": "2026-09-09T02:40:30Z",
       "updated_at": "2026-09-09T02:40:34Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 82400536,
       "digest": "sha256:f0ae8b4b8ed671a17a14d4f4e13addb1434873f49648f3385dfb81410aa4d32a",
-      "download_count": 59,
+      "download_count": 298,
       "created_at": "2026-09-09T02:39:31Z",
       "updated_at": "2026-09-09T02:39:34Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 170274152,
       "digest": "sha256:50533da8fb42505479cec086291695949c67169ff8840deb259a6bd253b6169b",
-      "download_count": 165,
+      "download_count": 1315,
       "created_at": "2026-09-09T02:49:47Z",
       "updated_at": "2026-09-09T02:49:54Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 85844715,
       "digest": "sha256:6b5832f05f025c49ebe5b137f12b8d2c54caa453193bf46ab2f436511b5d6a6e",
-      "download_count": 2,
+      "download_count": 15,
       "created_at": "2026-09-09T02:42:54Z",
       "updated_at": "2026-09-09T02:42:58Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-macos"
