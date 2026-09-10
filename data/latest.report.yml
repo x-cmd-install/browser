@@ -2,12 +2,12 @@ about:
   description: "Lightpanda: the headless browser designed for AI and automation"
   license: AGPL-3.0
   homepage: https://lightpanda.io
-  head: d693f49
+  head: c21462c
   archived: false
   latestVersion: "0.4.0"
   latestRelease: "0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:30:44Z
+  collectedAt: 2026-09-10T23:38:07Z
 timeline:
   created: 2023-02-07
   lastCommit: 2026-09-10
@@ -15,90 +15,90 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 35263
+  star: 35267
   watcher: 95
-  fork: 1671
+  fork: 1672
   release: 21
   contributor: 64
-  pullRequest: 2932
+  pullRequest: 2936
   issue: 531
 language:
-  Zig: 8330275
+  Zig: 8351491
   HTML: 2018442
-  Linker Script: 307886
-  Rust: 134657
+  Linker Script: 311743
+  Rust: 133952
   JavaScript: 39194
   Python: 7247
   Shell: 6855
-  Makefile: 5610
+  Makefile: 5517
   Dockerfile: 3194
   Nix: 1974
   Go: 1143
-totalBytes: 10856477
+totalBytes: 10880752
 recent:
   last30d:
     since: 2026-08-11
     release: 2
-    mergedPR: 221
-    openPR: 21
+    mergedPR: 226
+    openPR: 20
     closedIssue: 24
     openIssue: 11
-    commit: 433
+    commit: 450
   last60d:
     since: 2026-07-12
     release: 4
-    mergedPR: 418
-    openPR: 22
+    mergedPR: 423
+    openPR: 21
     closedIssue: 41
     openIssue: 18
-    commit: 836
+    commit: 853
   last90d:
     since: 2026-06-12
     release: 7
-    mergedPR: 575
-    openPR: 23
+    mergedPR: 580
+    openPR: 22
     closedIssue: 55
     openIssue: 21
-    commit: 1304
+    commit: 1321
   last180d:
     since: 2026-03-14
     release: 13
-    mergedPR: 1231
-    openPR: 23
+    mergedPR: 1236
+    openPR: 22
     closedIssue: 181
     openIssue: 47
-    commit: 3041
+    commit: 3058
   last360d:
     since: 2025-09-15
     release: 20
-    mergedPR: 1895
-    openPR: 23
+    mergedPR: 1900
+    openPR: 22
     closedIssue: 253
     openIssue: 62
-    commit: 4543
+    commit: 4560
   last720d:
     since: 2024-09-20
     release: 20
-    mergedPR: 2489
-    openPR: 23
+    mergedPR: 2494
+    openPR: 22
     closedIssue: 374
     openIssue: 75
-    commit: 8364
+    commit: 8386
 total:
   release: 21
-  mergedPR: 2662
-  openPR: 23
+  mergedPR: 2667
+  openPR: 22
   closedIssue: 454
   openIssue: 77
-  commit: 9325
+  commit: 9347
 ---
 path: /home/runner/.x-repo/github.com/lightpanda-io/browser
-collectedAt: 2026-09-10T18:30:50Z
+collectedAt: 2026-09-10T23:38:19Z
 loc:
   Zig:
-    code: 170393
-    comments: 26819
-    blanks: 28397
+    code: 170832
+    comments: 26965
+    blanks: 28463
     files: 575
   Html:
     code: 9290
@@ -106,9 +106,9 @@ loc:
     blanks: 3379
     files: 434
   Rust:
-    code: 3296
-    comments: 249
-    blanks: 334
+    code: 3277
+    comments: 248
+    blanks: 329
     files: 7
   JavaScript:
     code: 1018
@@ -126,8 +126,8 @@ loc:
     blanks: 14
     files: 1
   Makefile:
-    code: 93
-    comments: 41
+    code: 92
+    comments: 40
     blanks: 24
     files: 1
   Nix:
@@ -141,9 +141,9 @@ loc:
     blanks: 17
     files: 1
   Toml:
-    code: 54
+    code: 50
     comments: 8
-    blanks: 9
+    blanks: 8
     files: 4
   Go:
     code: 41
@@ -157,20 +157,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 546
-    blanks: 176
+    comments: 547
+    blanks: 177
     files: 8
   Text:
     code: 0
-    comments: 21941
+    comments: 21781
     blanks: 0
     files: 1
 total:
-  code: 223223
-  comments: 54761
-  blanks: 38776
+  code: 223638
+  comments: 54745
+  blanks: 38837
   files: 1114
 ---
 
 ---
-{"id":165618769,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOI67vws4J3yRR","tag_name":"nightly","target_commitish":"main","name":"nightly","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-06-24T14:03:58Z","updated_at":"2026-09-10T02:49:38Z","published_at":"2024-07-16T10:45:32Z","assets":[{"id":554080551,"node_id":"RA_kwDOI67vws4hBpkn","name":"lightpanda-aarch64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":175422056,"digest":"sha256:ecddea07e1e9ccdb3e293078a752902c361b2582f2c51fe15a75fc6361d6738f","download_count":54,"created_at":"2026-09-10T02:46:19Z","updated_at":"2026-09-10T02:46:25Z"},{"id":554076336,"node_id":"RA_kwDOI67vws4hBoiw","name":"lightpanda-aarch64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":82436600,"digest":"sha256:6db46f0ecd0a56d550e64411293b948a34a543cb7b5d932c241389a8fb0ca231","download_count":253,"created_at":"2026-09-10T02:43:25Z","updated_at":"2026-09-10T02:43:28Z"},{"id":554085007,"node_id":"RA_kwDOI67vws4hBqqP","name":"lightpanda-x86_64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":170597432,"digest":"sha256:121cfef588cd9345fbe7dc88c991df0de1777f304da2ba71a46a84438c4b2213","download_count":1060,"created_at":"2026-09-10T02:49:33Z","updated_at":"2026-09-10T02:49:38Z"},{"id":554076382,"node_id":"RA_kwDOI67vws4hBoje","name":"lightpanda-x86_64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":85883186,"digest":"sha256:521253711ad1846bafcdbf82af37d2df4a65ea813b6a3a98b765cbd2ae30290a","download_count":8,"created_at":"2026-09-10T02:43:28Z","updated_at":"2026-09-10T02:43:32Z"}],"body":"","reactions":{"total_count":30,"+1":27,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":2,"eyes":1}}
+{"id":165618769,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOI67vws4J3yRR","tag_name":"nightly","target_commitish":"main","name":"nightly","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-06-24T14:03:58Z","updated_at":"2026-09-10T02:49:38Z","published_at":"2024-07-16T10:45:32Z","assets":[{"id":554080551,"node_id":"RA_kwDOI67vws4hBpkn","name":"lightpanda-aarch64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":175422056,"digest":"sha256:ecddea07e1e9ccdb3e293078a752902c361b2582f2c51fe15a75fc6361d6738f","download_count":64,"created_at":"2026-09-10T02:46:19Z","updated_at":"2026-09-10T02:46:25Z"},{"id":554076336,"node_id":"RA_kwDOI67vws4hBoiw","name":"lightpanda-aarch64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":82436600,"digest":"sha256:6db46f0ecd0a56d550e64411293b948a34a543cb7b5d932c241389a8fb0ca231","download_count":304,"created_at":"2026-09-10T02:43:25Z","updated_at":"2026-09-10T02:43:28Z"},{"id":554085007,"node_id":"RA_kwDOI67vws4hBqqP","name":"lightpanda-x86_64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":170597432,"digest":"sha256:121cfef588cd9345fbe7dc88c991df0de1777f304da2ba71a46a84438c4b2213","download_count":1373,"created_at":"2026-09-10T02:49:33Z","updated_at":"2026-09-10T02:49:38Z"},{"id":554076382,"node_id":"RA_kwDOI67vws4hBoje","name":"lightpanda-x86_64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":85883186,"digest":"sha256:521253711ad1846bafcdbf82af37d2df4a65ea813b6a3a98b765cbd2ae30290a","download_count":13,"created_at":"2026-09-10T02:43:28Z","updated_at":"2026-09-10T02:43:32Z"}],"body":"","reactions":{"total_count":30,"+1":27,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":2,"eyes":1}}
