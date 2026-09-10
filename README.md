@@ -12,6 +12,18 @@ Lightpanda: the headless browser designed for AI and automation
 x install browser
 ```
 
+## Code insight
+
+Total: **184,973** lines of code across **1095** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Zig | 170,832 | 26,965 | 28,463 | 575 |
+| Html | 9,290 | 906 | 3,379 | 434 |
+| Rust | 3,277 | 248 | 329 | 7 |
+| JavaScript | 1,018 | 103 | 137 | 76 |
+| Python | 148 | 11 | 0 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/lightpanda-io/browser>
@@ -26,31 +38,22 @@ x install browser
 
 ## Popularity
 
-- **Stars**: 35,263 · **Forks**: 1,671 · **Open issues**: 531 · **Contributors**: 64
+- **Stars**: 35,267 · **Forks**: 1,672 · **Open issues**: 531 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 2662 · **Open PRs**: 23 · **Closed issues**: 454 · **Open issues**: 77 · **Commits**: 9325
+- **Releases**: 21 · **Merged PRs**: 2667 · **Open PRs**: 22 · **Closed issues**: 454 · **Open issues**: 77 · **Commits**: 9347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 221 | 21 | 24 | 11 | 433 |
-| 90d | 2026-06-12 | 7 | 575 | 23 | 55 | 21 | 1304 |
-| 360d | 2025-09-15 | 20 | 1895 | 23 | 253 | 62 | 4543 |
-
-## Code size
-
-Total: **184,558** lines of code across **1095** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Zig | 170,393 | 26,819 | 28,397 | 575 |
-| Html | 9,290 | 906 | 3,379 | 434 |
-| Rust | 3,296 | 249 | 334 | 7 |
-| JavaScript | 1,018 | 103 | 137 | 76 |
-| Python | 148 | 11 | 0 | 3 |
+| 30d | 2026-08-11 | 2 | 226 | 20 | 24 | 11 | 450 |
+| last60d | 2026-07-12 | 4 | 423 | 21 | 41 | 18 | 853 |
+| 90d | 2026-06-12 | 7 | 580 | 22 | 55 | 21 | 1321 |
+| last180d | 2026-03-14 | 13 | 1236 | 22 | 181 | 47 | 3058 |
+| 360d | 2025-09-15 | 20 | 1900 | 22 | 253 | 62 | 4560 |
+| last720d | 2024-09-20 | 20 | 2494 | 22 | 374 | 75 | 8386 |
 
 ## Release assets
 
@@ -70,4 +73,4 @@ Install metadata for browser lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:30:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:38:31Z._
