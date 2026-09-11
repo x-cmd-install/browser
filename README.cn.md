@@ -14,15 +14,15 @@ x install browser
 
 ## 代码洞察
 
-合计: **184,973** 行代码（覆盖前 5 种语言、共 **1095** 个文件）。
+合计: **187,140** 行代码（覆盖前 5 种语言、共 **1095** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Zig | 170,832 | 26,965 | 28,463 | 575 |
-| Html | 9,290 | 906 | 3,379 | 434 |
+| Zig | 172,189 | 27,102 | 28,671 | 576 |
+| Html | 9,301 | 906 | 3,379 | 435 |
 | Rust | 3,277 | 248 | 329 | 7 |
 | JavaScript | 1,018 | 103 | 137 | 76 |
-| Python | 148 | 11 | 0 | 3 |
+| Json | 800 | 0 | 0 | 1 |
 
 ## 源代码
 
@@ -33,36 +33,36 @@ x install browser
 ## 发布
 
 - **最新版本**: `0.4.0` (2026-08-31)
-- **最近提交**: 2026-09-10
+- **最近提交**: 2026-09-11
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 35,267 · **Fork**: 1,672 · **开放 issue**: 531 · **贡献者**: 64
+- **Star**: 35,270 · **Fork**: 1,673 · **开放 issue**: 531 · **贡献者**: 64
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 2667 · **开放 PR**: 22 · **已关闭 issue**: 454 · **开放 issue**: 77 · **提交数**: 9347
+- **发布数**: 21 · **已合并 PR**: 2672 · **开放 PR**: 19 · **已关闭 issue**: 454 · **开放 issue**: 77 · **提交数**: 9362
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 226 | 20 | 24 | 11 | 450 |
-| last60d | 2026-07-12 | 4 | 423 | 21 | 41 | 18 | 853 |
-| 90d | 2026-06-12 | 7 | 580 | 22 | 55 | 21 | 1321 |
-| last180d | 2026-03-14 | 13 | 1236 | 22 | 181 | 47 | 3058 |
-| 360d | 2025-09-15 | 20 | 1900 | 22 | 253 | 62 | 4560 |
-| last720d | 2024-09-20 | 20 | 2494 | 22 | 374 | 75 | 8386 |
+| 30d | 2026-08-12 | 2 | 226 | 17 | 23 | 10 | 460 |
+| last60d | 2026-07-13 | 4 | 415 | 18 | 41 | 18 | 863 |
+| 90d | 2026-06-13 | 7 | 582 | 19 | 54 | 21 | 1331 |
+| last180d | 2026-03-15 | 12 | 1232 | 19 | 176 | 45 | 3068 |
+| 360d | 2025-09-16 | 20 | 1901 | 19 | 253 | 62 | 4570 |
+| last720d | 2024-09-21 | 20 | 2499 | 19 | 374 | 75 | 8399 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux) | 167.3 MiB | `native/linux/arm64` |
-| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos) | 78.6 MiB | `native/darwin/arm64` |
-| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux) | 162.7 MiB | `native/linux/x64` |
-| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-macos) | 81.9 MiB | `native/darwin/x64` |
+| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux) | 168.6 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos) | 79.0 MiB | `native/darwin/arm64` |
+| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux) | 164.0 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-macos) | 82.3 MiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ browser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T23:38:31Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T06:20:12Z._
