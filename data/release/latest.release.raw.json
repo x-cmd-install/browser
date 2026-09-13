@@ -33,13 +33,13 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2024-06-24T14:03:58Z",
-  "updated_at": "2026-09-12T02:48:41Z",
+  "updated_at": "2026-09-13T02:47:11Z",
   "published_at": "2024-07-16T10:45:32Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/558472356",
-      "id": 558472356,
-      "node_id": "RA_kwDOI67vws4hSZyk",
+      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/560420504",
+      "id": 560420504,
+      "node_id": "RA_kwDOI67vws4hZ1aY",
       "name": "lightpanda-aarch64-linux",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 176784896,
-      "digest": "sha256:53e3dfcb68f16f855659023cea8bd81f7c64a260614ac9df01b96fa3622a8c4d",
-      "download_count": 9,
-      "created_at": "2026-09-12T02:45:43Z",
-      "updated_at": "2026-09-12T02:45:47Z",
+      "size": 176885456,
+      "digest": "sha256:be56c8b8b41ea7ecc1da4bfa4e8c36fc94edda2c58eb301da320ea967377a449",
+      "download_count": 7,
+      "created_at": "2026-09-13T02:47:05Z",
+      "updated_at": "2026-09-13T02:47:11Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux"
     },
     {
-      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/558473209",
-      "id": 558473209,
-      "node_id": "RA_kwDOI67vws4hSZ_5",
+      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/560417045",
+      "id": 560417045,
+      "node_id": "RA_kwDOI67vws4hZ0kV",
       "name": "lightpanda-aarch64-macos",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 82893256,
-      "digest": "sha256:e7ce86fdf0e522cf715cff9ffebbfd004646e31777a59d0e802c64587a4b9144",
-      "download_count": 35,
-      "created_at": "2026-09-12T02:46:34Z",
-      "updated_at": "2026-09-12T02:46:37Z",
+      "size": 82893528,
+      "digest": "sha256:33248606b4fa35ea540c92ed28b70dd71fed9ba198b1daafb1cea2096d1c5e7a",
+      "download_count": 32,
+      "created_at": "2026-09-13T02:44:23Z",
+      "updated_at": "2026-09-13T02:44:27Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos"
     },
     {
-      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/558475602",
-      "id": 558475602,
-      "node_id": "RA_kwDOI67vws4hSalS",
+      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/560418536",
+      "id": 560418536,
+      "node_id": "RA_kwDOI67vws4hZ07o",
       "name": "lightpanda-x86_64-linux",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 172010816,
-      "digest": "sha256:091f06ddc581be437492954b001943ba8f7f0e21613a6ccc797994a656d231c5",
-      "download_count": 119,
-      "created_at": "2026-09-12T02:48:34Z",
-      "updated_at": "2026-09-12T02:48:41Z",
+      "size": 171987360,
+      "digest": "sha256:fb19d1f09bd3dbf3d46ad6670f68160857304cdb77f751390d707648d64a2c60",
+      "download_count": 143,
+      "created_at": "2026-09-13T02:45:33Z",
+      "updated_at": "2026-09-13T02:45:40Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux"
     },
     {
-      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/558469183",
-      "id": 558469183,
-      "node_id": "RA_kwDOI67vws4hSZA_",
+      "url": "https://api.github.com/repos/lightpanda-io/browser/releases/assets/560420524",
+      "id": 560420524,
+      "node_id": "RA_kwDOI67vws4hZ1as",
       "name": "lightpanda-x86_64-macos",
       "label": "",
       "uploader": {
@@ -173,11 +173,11 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 86341498,
-      "digest": "sha256:dbb2ea6b9a1a79ba989d324b93cf5c47fc48f3afc27c43d44d3b9c075db53adb",
-      "download_count": 4,
-      "created_at": "2026-09-12T02:42:56Z",
-      "updated_at": "2026-09-12T02:43:00Z",
+      "size": 86337741,
+      "digest": "sha256:91a7834ee9851ed190e216f36d8dc0d90097d7afc0cdeb57d1405e6450f927b6",
+      "download_count": 0,
+      "created_at": "2026-09-13T02:47:06Z",
+      "updated_at": "2026-09-13T02:47:10Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-macos"
     }
   ],
@@ -186,7 +186,7 @@
   "body": "",
   "reactions": {
     "url": "https://api.github.com/repos/lightpanda-io/browser/releases/165618769/reactions",
-    "total_count": 30,
+    "total_count": 31,
     "+1": 27,
     "-1": 0,
     "laugh": 0,
@@ -194,6 +194,6 @@
     "confused": 0,
     "heart": 0,
     "rocket": 2,
-    "eyes": 1
+    "eyes": 2
   }
 }
