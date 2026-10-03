@@ -14,13 +14,13 @@ x install browser
 
 ## Code insight
 
-Total: **201,787** lines of code across **1164** files in the top 5 languages.
+Total: **202,331** lines of code across **1165** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zig | 186,023 | 29,029 | 30,771 | 596 |
-| Html | 10,011 | 947 | 3,593 | 473 |
-| Rust | 3,305 | 250 | 334 | 7 |
+| Zig | 186,514 | 29,568 | 30,999 | 596 |
+| Html | 10,067 | 947 | 3,611 | 474 |
+| Rust | 3,302 | 252 | 335 | 7 |
 | JavaScript | 1,085 | 131 | 143 | 87 |
 | Json | 800 | 0 | 0 | 1 |
 
@@ -32,36 +32,36 @@ Total: **201,787** lines of code across **1164** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.4.1` (2026-09-15)
-- **Last commit**: 2026-10-02
+- **Latest**: `1.0.0` (2026-10-02)
+- **Last commit**: 2026-10-03
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 35,685 · **Forks**: 1,695 · **Open issues**: 549 · **Contributors**: 68
+- **Stars**: 35,864 · **Forks**: 1,692 · **Open issues**: 552 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 2873 · **Open PRs**: 35 · **Closed issues**: 485 · **Open issues**: 64 · **Commits**: 9990
+- **Releases**: 23 · **Merged PRs**: 2895 · **Open PRs**: 25 · **Closed issues**: 485 · **Open issues**: 67 · **Commits**: 10035
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 257 | 31 | 14 | 18 | 514 |
-| last60d | 2026-08-03 | 3 | 471 | 34 | 39 | 20 | 971 |
-| 90d | 2026-07-04 | 5 | 657 | 35 | 56 | 24 | 1469 |
-| last180d | 2026-04-05 | 11 | 1278 | 35 | 161 | 35 | 3143 |
-| 360d | 2025-10-07 | 21 | 2045 | 35 | 270 | 51 | 4895 |
-| last720d | 2024-10-12 | 21 | 2696 | 35 | 405 | 62 | 8987 |
+| 30d | 2026-09-03 | 2 | 275 | 21 | 14 | 20 | 806 |
+| last60d | 2026-08-04 | 4 | 483 | 24 | 37 | 23 | 1462 |
+| 90d | 2026-07-05 | 6 | 679 | 25 | 56 | 26 | 2254 |
+| last180d | 2026-04-06 | 12 | 1295 | 25 | 160 | 38 | 4594 |
+| 360d | 2025-10-08 | 22 | 2065 | 25 | 270 | 54 | 7331 |
+| last720d | 2024-10-13 | 22 | 2718 | 25 | 405 | 65 | 9030 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux) | 183.8 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux) | 184.0 MiB | `native/linux/arm64` |
 | [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos) | 86.2 MiB | `native/darwin/arm64` |
-| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux) | 179.5 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux) | 179.7 MiB | `native/linux/x64` |
 | [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-macos) | 89.8 MiB | `native/darwin/x64` |
 
 ## Improve this data
@@ -73,4 +73,4 @@ Install metadata for browser lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T07:00:48Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:40:26Z._
