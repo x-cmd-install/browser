@@ -14,14 +14,14 @@ x install browser
 
 ## Code insight
 
-Total: **205,857** lines of code across **1192** files in the top 5 languages.
+Total: **206,906** lines of code across **1198** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zig | 189,523 | 30,122 | 31,497 | 606 |
-| Html | 10,452 | 979 | 3,748 | 490 |
+| Zig | 190,523 | 30,283 | 31,642 | 608 |
+| Html | 10,500 | 986 | 3,767 | 494 |
 | Rust | 3,398 | 260 | 340 | 7 |
-| JavaScript | 1,125 | 139 | 149 | 88 |
+| JavaScript | 1,126 | 139 | 149 | 88 |
 | Json | 800 | 0 | 0 | 1 |
 
 ## Source
@@ -33,36 +33,38 @@ Total: **205,857** lines of code across **1192** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.0.0` (2026-10-02)
-- **Last commit**: 2026-10-08
-- **Assets in release**: 4
+- **Last commit**: 2026-10-09
+- **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 36,109 · **Forks**: 1,707 · **Open issues**: 568 · **Contributors**: 72
+- **Stars**: 36,154 · **Forks**: 1,712 · **Open issues**: 571 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 2970 · **Open PRs**: 29 · **Closed issues**: 500 · **Open issues**: 68 · **Commits**: 10261
+- **Releases**: 23 · **Merged PRs**: 2993 · **Open PRs**: 30 · **Closed issues**: 505 · **Open issues**: 66 · **Commits**: 10336
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 314 | 23 | 21 | 17 | 873 |
-| last60d | 2026-08-09 | 4 | 538 | 28 | 49 | 23 | 1599 |
-| 90d | 2026-07-10 | 6 | 730 | 29 | 68 | 27 | 2252 |
-| last180d | 2026-04-11 | 12 | 1333 | 29 | 173 | 37 | 4573 |
-| 360d | 2025-10-13 | 22 | 2128 | 29 | 281 | 56 | 7495 |
-| last720d | 2024-10-18 | 22 | 2790 | 29 | 420 | 66 | 9239 |
+| 30d | 2026-09-09 | 2 | 323 | 24 | 26 | 14 | 950 |
+| last60d | 2026-08-10 | 4 | 559 | 29 | 54 | 21 | 1676 |
+| 90d | 2026-07-11 | 6 | 752 | 30 | 73 | 25 | 2329 |
+| last180d | 2026-04-12 | 12 | 1352 | 30 | 178 | 35 | 4650 |
+| 360d | 2025-10-14 | 22 | 2150 | 30 | 285 | 54 | 7572 |
+| last720d | 2024-10-19 | 22 | 2813 | 30 | 425 | 64 | 9313 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-linux) | 192.7 MiB | `native/linux/arm64` |
-| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos) | 87.1 MiB | `native/darwin/arm64` |
-| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux) | 189.4 MiB | `native/linux/x64` |
-| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-macos) | 90.8 MiB | `native/darwin/x64` |
+| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-aarch64-linux) | 183.8 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-aarch64-macos) | 86.2 MiB | `native/darwin/arm64` |
+| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-x86_64-linux) | 179.5 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-x86_64-macos) | 89.8 MiB | `native/darwin/x64` |
+| [lightpanda_1.0.0_amd64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda_1.0.0_amd64.deb) | 34.3 MiB | `runtime/deb/amd64` |
+| [lightpanda_1.0.0_arm64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda_1.0.0_arm64.deb) | 32.4 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -73,4 +75,4 @@ Install metadata for browser lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:32:25Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:29:59Z._
