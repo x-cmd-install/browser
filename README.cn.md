@@ -14,12 +14,12 @@ x install browser
 
 ## 代码洞察
 
-合计: **213,668** 行代码（覆盖前 5 种语言、共 **1239** 个文件）。
+合计: **214,820** 行代码（覆盖前 5 种语言、共 **1240** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Zig | 196,637 | 31,085 | 32,236 | 619 |
-| Html | 11,128 | 1,027 | 3,933 | 519 |
+| Zig | 197,725 | 31,241 | 32,366 | 619 |
+| Html | 11,192 | 1,031 | 3,955 | 520 |
 | Rust | 3,398 | 260 | 340 | 7 |
 | JavaScript | 1,146 | 142 | 149 | 93 |
 | Json | 800 | 0 | 0 | 1 |
@@ -32,39 +32,42 @@ x install browser
 
 ## 发布
 
-- **最新版本**: `1.0.0` (2026-10-02)
-- **最近提交**: 2026-10-15
-- **Release 含资产**: 6 个
+- **最新版本**: `1.0.1` (2026-10-15)
+- **最近提交**: 2026-10-16
+- **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 36,514 · **Fork**: 1,747 · **开放 issue**: 581 · **贡献者**: 75
+- **Star**: 36,565 · **Fork**: 1,753 · **开放 issue**: 582 · **贡献者**: 75
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 3083 · **开放 PR**: 28 · **已关闭 issue**: 518 · **开放 issue**: 63 · **提交数**: 10622
+- **发布数**: 24 · **已合并 PR**: 3099 · **开放 PR**: 29 · **已关闭 issue**: 519 · **开放 issue**: 63 · **提交数**: 10666
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 357 | 23 | 35 | 14 | 972 |
-| last60d | 2026-08-16 | 4 | 617 | 27 | 60 | 20 | 1808 |
-| 90d | 2026-07-17 | 6 | 775 | 28 | 84 | 23 | 2350 |
-| last180d | 2026-04-18 | 12 | 1410 | 28 | 184 | 31 | 4790 |
-| 360d | 2025-10-20 | 22 | 2226 | 28 | 295 | 51 | 7779 |
-| last720d | 2024-10-25 | 22 | 2897 | 28 | 437 | 61 | 9590 |
+| 30d | 2026-09-16 | 2 | 365 | 24 | 36 | 14 | 1017 |
+| last60d | 2026-08-17 | 4 | 629 | 27 | 60 | 20 | 1853 |
+| 90d | 2026-07-18 | 6 | 788 | 29 | 84 | 22 | 2395 |
+| last180d | 2026-04-19 | 13 | 1426 | 29 | 185 | 31 | 4835 |
+| 360d | 2025-10-21 | 23 | 2236 | 29 | 295 | 51 | 7824 |
+| last720d | 2024-10-26 | 23 | 2913 | 29 | 438 | 61 | 9633 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-aarch64-linux) | 183.8 MiB | `native/linux/arm64` |
-| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-aarch64-macos) | 86.2 MiB | `native/darwin/arm64` |
-| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-x86_64-linux) | 179.5 MiB | `native/linux/x64` |
-| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda-x86_64-macos) | 89.8 MiB | `native/darwin/x64` |
-| [lightpanda_1.0.0_amd64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda_1.0.0_amd64.deb) | 34.3 MiB | `runtime/deb/amd64` |
-| [lightpanda_1.0.0_arm64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.0/lightpanda_1.0.0_arm64.deb) | 32.4 MiB | `runtime/deb/arm64` |
+| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-aarch64-linux) | 69.8 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-linux.debug](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-aarch64-linux.debug) | 46.2 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-aarch64-macos) | 88.2 MiB | `native/darwin/arm64` |
+| [lightpanda-docs.tar.gz](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-docs.tar.gz) | 11.3 KiB | `native/unknown` |
+| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-x86_64-linux) | 72.2 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-linux.debug](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-x86_64-linux.debug) | 44.1 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda-x86_64-macos) | 91.9 MiB | `native/darwin/x64` |
+| [lightpanda_1.0.1_amd64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda_1.0.1_amd64.deb) | 18.6 MiB | `runtime/deb/amd64` |
+| [lightpanda_1.0.1_arm64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.1/lightpanda_1.0.1_arm64.deb) | 16.7 MiB | `runtime/deb/arm64` |
 
 ## 改进这些数据
 
@@ -75,4 +78,4 @@ browser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T06:00:38Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:56:27Z._
