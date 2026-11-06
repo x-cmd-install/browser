@@ -1,0 +1,180 @@
+about:
+  description: "Lightpanda: the headless browser designed for AI and automation"
+  license: AGPL-3.0
+  homepage: https://lightpanda.io
+  head: dbc5f7e
+  archived: false
+  latestVersion: "1.0.3"
+  latestRelease: "1.0.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-06T08:15:09Z
+timeline:
+  created: 2023-02-07
+  lastCommit: 2026-11-06
+  lastVersion: 2026-11-05
+  lastRelease: 2026-11-05
+  lastPrerelease: 
+popularity:
+  star: 41437
+  watcher: 98
+  fork: 2044
+  release: 26
+  contributor: 90
+  pullRequest: 3836
+  issue: 633
+language:
+  Zig: 11681765
+  HTML: 3214805
+  Linker Script: 358133
+  Rust: 148769
+  JavaScript: 58787
+  Shell: 20303
+  Nix: 8973
+  Python: 7543
+  Makefile: 5992
+  Dockerfile: 3221
+  Go: 1136
+totalBytes: 15509427
+recent:
+  last30d:
+    since: 2026-10-07
+    release: 3
+    mergedPR: 511
+    openPR: 24
+    closedIssue: 50
+    openIssue: 16
+    commit: 1403
+  last60d:
+    since: 2026-09-07
+    release: 5
+    mergedPR: 847
+    openPR: 26
+    closedIssue: 86
+    openIssue: 22
+    commit: 2455
+  last90d:
+    since: 2026-08-08
+    release: 7
+    mergedPR: 1061
+    openPR: 26
+    closedIssue: 116
+    openIssue: 23
+    commit: 3139
+  last180d:
+    since: 2026-05-10
+    release: 14
+    mergedPR: 1662
+    openPR: 27
+    closedIssue: 192
+    openIssue: 28
+    commit: 5405
+  last360d:
+    since: 2025-11-11
+    release: 25
+    mergedPR: 2610
+    openPR: 27
+    closedIssue: 344
+    openIssue: 44
+    commit: 8848
+  last720d:
+    since: 2024-11-16
+    release: 25
+    mergedPR: 3296
+    openPR: 27
+    closedIssue: 496
+    openIssue: 53
+    commit: 10728
+total:
+  release: 26
+  mergedPR: 3494
+  openPR: 27
+  closedIssue: 578
+  openIssue: 55
+  commit: 11798
+---
+path: /home/runner/.x-repo/github.com/lightpanda-io/browser
+collectedAt: 2026-11-06T08:15:18Z
+loc:
+  Zig:
+    code: 232406
+    comments: 36239
+    blanks: 37305
+    files: 693
+  Html:
+    code: 13581
+    comments: 1157
+    blanks: 4584
+    files: 611
+  Rust:
+    code: 3631
+    comments: 278
+    blanks: 368
+    files: 7
+  JavaScript:
+    code: 1431
+    comments: 191
+    blanks: 186
+    files: 125
+  Json:
+    code: 856
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 426
+    comments: 74
+    blanks: 62
+    files: 4
+  Nix:
+    code: 279
+    comments: 13
+    blanks: 50
+    files: 4
+  Python:
+    code: 149
+    comments: 14
+    blanks: 0
+    files: 3
+  Makefile:
+    code: 98
+    comments: 42
+    blanks: 26
+    files: 1
+  Dockerfile:
+    code: 55
+    comments: 13
+    blanks: 17
+    files: 1
+  Toml:
+    code: 49
+    comments: 8
+    blanks: 8
+    files: 4
+  Go:
+    code: 41
+    comments: 0
+    blanks: 7
+    files: 1
+  Xml:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 614
+    blanks: 195
+    files: 10
+  Text:
+    code: 0
+    comments: 22109
+    blanks: 2
+    files: 3
+total:
+  code: 312207
+  comments: 66721
+  blanks: 51045
+  files: 1469
+---
+
+---
