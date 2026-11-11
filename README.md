@@ -14,14 +14,14 @@ x install browser
 
 ## Code insight
 
-Total: **257,557** lines of code across **1463** files in the top 5 languages.
+Total: **258,052** lines of code across **1471** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zig | 236,612 | 36,714 | 37,589 | 701 |
-| Html | 13,924 | 1,195 | 4,683 | 626 |
+| Zig | 237,033 | 36,826 | 37,666 | 702 |
+| Html | 13,974 | 1,195 | 4,691 | 631 |
 | Rust | 3,631 | 278 | 368 | 7 |
-| JavaScript | 1,435 | 191 | 186 | 128 |
+| JavaScript | 1,459 | 192 | 188 | 130 |
 | Json | 856 | 0 | 0 | 1 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **257,557** lines of code across **1463** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.0.3` (2026-11-05)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 41,747 · **Forks**: 2,080 · **Open issues**: 641 · **Contributors**: 92
+- **Stars**: 41,834 · **Forks**: 2,091 · **Open issues**: 644 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 3545 · **Open PRs**: 35 · **Closed issues**: 587 · **Open issues**: 54 · **Commits**: 11977
+- **Releases**: 26 · **Merged PRs**: 3559 · **Open PRs**: 32 · **Closed issues**: 589 · **Open issues**: 55 · **Commits**: 12013
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 502 | 31 | 49 | 18 | 1280 |
-| last60d | 2026-09-11 | 5 | 857 | 33 | 89 | 21 | 2421 |
-| 90d | 2026-08-12 | 7 | 1097 | 34 | 119 | 24 | 3215 |
-| last180d | 2026-05-14 | 13 | 1669 | 35 | 192 | 29 | 5366 |
-| 360d | 2025-11-15 | 25 | 2654 | 35 | 349 | 43 | 8985 |
-| last720d | 2024-11-20 | 25 | 3346 | 35 | 505 | 52 | 10894 |
+| 30d | 2026-10-12 | 3 | 498 | 29 | 49 | 20 | 1316 |
+| last60d | 2026-09-12 | 5 | 868 | 30 | 91 | 22 | 2457 |
+| 90d | 2026-08-13 | 7 | 1106 | 31 | 121 | 25 | 3251 |
+| last180d | 2026-05-15 | 13 | 1672 | 32 | 190 | 30 | 5402 |
+| 360d | 2025-11-16 | 25 | 2668 | 32 | 351 | 44 | 9021 |
+| last720d | 2024-11-21 | 25 | 3359 | 32 | 507 | 53 | 10930 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for browser lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:07:35Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:49:45Z._
