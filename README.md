@@ -14,12 +14,12 @@ x install browser
 
 ## Code insight
 
-Total: **260,810** lines of code across **1477** files in the top 5 languages.
+Total: **261,742** lines of code across **1478** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zig | 239,612 | 37,301 | 38,008 | 704 |
-| Html | 14,142 | 1,195 | 4,725 | 635 |
+| Zig | 240,512 | 37,410 | 38,144 | 704 |
+| Html | 14,172 | 1,195 | 4,723 | 636 |
 | Rust | 3,644 | 281 | 370 | 7 |
 | JavaScript | 1,457 | 190 | 188 | 130 |
 | Json | 856 | 0 | 0 | 1 |
@@ -32,42 +32,42 @@ Total: **260,810** lines of code across **1477** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.0.4-rc1` (2026-11-05)
-- **Last commit**: 2026-11-13
+- **Latest**: `1.0.4` (2026-11-13)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 41,966 · **Forks**: 2,107 · **Open issues**: 647 · **Contributors**: 94
+- **Stars**: 42,028 · **Forks**: 2,111 · **Open issues**: 648 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 3598 · **Open PRs**: 33 · **Closed issues**: 591 · **Open issues**: 56 · **Commits**: 12118
+- **Releases**: 28 · **Merged PRs**: 3617 · **Open PRs**: 29 · **Closed issues**: 595 · **Open issues**: 53 · **Commits**: 12162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 4 | 502 | 30 | 46 | 20 | 1421 |
-| last60d | 2026-09-14 | 6 | 889 | 31 | 93 | 23 | 2562 |
-| 90d | 2026-08-15 | 8 | 1132 | 32 | 120 | 26 | 3356 |
-| last180d | 2026-05-17 | 14 | 1706 | 33 | 192 | 31 | 5507 |
-| 360d | 2025-11-18 | 26 | 2705 | 33 | 353 | 45 | 9126 |
-| last720d | 2024-11-23 | 26 | 3397 | 33 | 509 | 54 | 11031 |
+| 30d | 2026-10-15 | 5 | 507 | 26 | 49 | 17 | 1465 |
+| last60d | 2026-09-15 | 7 | 890 | 27 | 96 | 20 | 2606 |
+| 90d | 2026-08-16 | 9 | 1150 | 28 | 124 | 23 | 3400 |
+| last180d | 2026-05-18 | 15 | 1723 | 29 | 196 | 28 | 5551 |
+| 360d | 2025-11-19 | 27 | 2718 | 29 | 356 | 42 | 9170 |
+| last720d | 2024-11-24 | 27 | 3416 | 29 | 512 | 51 | 11075 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-aarch64-linux) | 71.0 MiB | `native/linux/arm64` |
-| [lightpanda-aarch64-linux.debug](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-aarch64-linux.debug) | 47.7 MiB | `native/linux/arm64` |
-| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-aarch64-macos) | 87.2 MiB | `native/darwin/arm64` |
-| [lightpanda-docs.tar.gz](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-docs.tar.gz) | 15.2 KiB | `native/unknown` |
-| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-x86_64-linux) | 73.8 MiB | `native/linux/x64` |
-| [lightpanda-x86_64-linux.debug](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-x86_64-linux.debug) | 45.8 MiB | `native/linux/x64` |
-| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda-x86_64-macos) | 91.4 MiB | `native/darwin/x64` |
-| [lightpanda_1.0.3_amd64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda_1.0.3_amd64.deb) | 19.1 MiB | `runtime/deb/amd64` |
-| [lightpanda_1.0.3_arm64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.3/lightpanda_1.0.3_arm64.deb) | 17.0 MiB | `runtime/deb/arm64` |
+| [lightpanda-aarch64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-aarch64-linux) | 71.3 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-linux.debug](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-aarch64-linux.debug) | 48.0 MiB | `native/linux/arm64` |
+| [lightpanda-aarch64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-aarch64-macos) | 87.4 MiB | `native/darwin/arm64` |
+| [lightpanda-docs.tar.gz](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-docs.tar.gz) | 15.9 KiB | `native/unknown` |
+| [lightpanda-x86_64-linux](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-x86_64-linux) | 74.1 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-linux.debug](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-x86_64-linux.debug) | 46.2 MiB | `native/linux/x64` |
+| [lightpanda-x86_64-macos](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda-x86_64-macos) | 91.3 MiB | `native/darwin/x64` |
+| [lightpanda_1.0.4_amd64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda_1.0.4_amd64.deb) | 19.2 MiB | `runtime/deb/amd64` |
+| [lightpanda_1.0.4_arm64.deb](https://github.com/lightpanda-io/browser/releases/download/1.0.4/lightpanda_1.0.4_arm64.deb) | 17.1 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for browser lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:35:11Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:26:57Z._
