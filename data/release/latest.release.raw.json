@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 75206728,
       "digest": "sha256:7527391c479f323eb9111b834b012d91a89057528c28ef027741b21739b12299",
-      "download_count": 627,
+      "download_count": 962,
       "created_at": "2026-11-20T14:12:40Z",
       "updated_at": "2026-11-20T14:12:43Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-aarch64-linux"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 51228824,
       "digest": "sha256:109e369d8167df3ee320d36a93dd9b8ee112cc31a937dcecc6bcea0bb599c061",
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2026-11-20T14:12:44Z",
       "updated_at": "2026-11-20T14:12:46Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-aarch64-linux.debug"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91999720,
       "digest": "sha256:eec3781086ee512320a04b036f092806a8a959944ea78fc8f4fe7dfe215a84b4",
-      "download_count": 1083,
+      "download_count": 1297,
       "created_at": "2026-11-20T14:04:46Z",
       "updated_at": "2026-11-20T14:04:49Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-aarch64-macos"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16820,
       "digest": "sha256:a913f37e872b1b65792489fa83b3b00869cfa21665221b03e8f808698a60cfd9",
-      "download_count": 50,
+      "download_count": 62,
       "created_at": "2026-11-20T14:02:44Z",
       "updated_at": "2026-11-20T14:02:45Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-docs.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 78026056,
       "digest": "sha256:0ec21fa4867ab9e82b35285ff4ab0e7336c6c1d89f26fe991f27d73c8a678bd7",
-      "download_count": 1613,
+      "download_count": 2087,
       "created_at": "2026-11-20T14:02:39Z",
       "updated_at": "2026-11-20T14:02:42Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-x86_64-linux"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 49010880,
       "digest": "sha256:206d9333aaaf1ef2fe105f8f9ce36de910cb6c188d06da7987915e5455d78063",
-      "download_count": 37,
+      "download_count": 41,
       "created_at": "2026-11-20T14:02:42Z",
       "updated_at": "2026-11-20T14:02:44Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-x86_64-linux.debug"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 96121539,
       "digest": "sha256:2b75c9fee5c36d5d840f7938df6a532074bec03bf0485c3130b28597999a66fe",
-      "download_count": 94,
+      "download_count": 110,
       "created_at": "2026-11-20T14:10:44Z",
       "updated_at": "2026-11-20T14:10:48Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-x86_64-macos"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 20195156,
       "digest": "sha256:f04d1e6312c3aa8339b859b8d1348687ddfaf489b843178020c63f1c754178b4",
-      "download_count": 146,
+      "download_count": 167,
       "created_at": "2026-11-20T14:13:29Z",
       "updated_at": "2026-11-20T14:13:30Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda_1.0.5_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18016532,
       "digest": "sha256:9871b83085a758dc2ae4a59959e8872835ec6cf707966d4814cb484612fc80cd",
-      "download_count": 72,
+      "download_count": 83,
       "created_at": "2026-11-20T14:13:34Z",
       "updated_at": "2026-11-20T14:13:35Z",
       "browser_download_url": "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda_1.0.5_arm64.deb"
