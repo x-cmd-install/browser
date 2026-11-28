@@ -2,109 +2,109 @@ about:
   description: "Lightpanda: the headless browser designed for AI and automation"
   license: AGPL-3.0
   homepage: https://lightpanda.io
-  head: 9ed4ec8
+  head: 9858eaf
   archived: false
-  latestVersion: "1.0.6-rc2"
-  latestRelease: "1.0.5"
+  latestVersion: "1.0.6"
+  latestRelease: "1.0.6"
   latestPrerelease: "1.0.6-rc2"
-  collectedAt: 2026-11-27T09:59:17Z
+  collectedAt: 2026-11-28T09:01:24Z
 timeline:
   created: 2023-02-07
-  lastCommit: 2026-11-27
-  lastVersion: 2026-11-25
-  lastRelease: 2026-11-20
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 2026-11-25
 popularity:
-  star: 42648
+  star: 42685
   watcher: 106
-  fork: 2160
-  release: 33
-  contributor: 101
-  pullRequest: 4121
-  issue: 668
+  fork: 2163
+  release: 34
+  contributor: 102
+  pullRequest: 4137
+  issue: 673
 language:
-  Zig: 12800992
-  HTML: 3621282
-  Linker Script: 357837
+  Zig: 12992991
+  HTML: 3655526
+  Linker Script: 358318
   Rust: 169972
-  JavaScript: 63307
+  JavaScript: 63763
   Shell: 20303
   Nix: 8973
   Python: 7543
   Makefile: 6146
   Dockerfile: 3510
   Go: 1136
-totalBytes: 17061001
+totalBytes: 17288181
 recent:
   last30d:
-    since: 2026-10-28
-    release: 8
-    mergedPR: 396
-    openPR: 28
+    since: 2026-10-29
+    release: 9
+    mergedPR: 393
+    openPR: 21
     closedIssue: 35
-    openIssue: 17
-    commit: 1151
+    openIssue: 21
+    commit: 1201
   last60d:
-    since: 2026-09-28
-    release: 11
-    mergedPR: 892
-    openPR: 33
-    closedIssue: 100
-    openIssue: 26
-    commit: 2586
+    since: 2026-09-29
+    release: 12
+    mergedPR: 902
+    openPR: 26
+    closedIssue: 101
+    openIssue: 30
+    commit: 2636
   last90d:
-    since: 2026-08-29
-    release: 13
-    mergedPR: 1158
-    openPR: 34
-    closedIssue: 128
-    openIssue: 29
-    commit: 3422
+    since: 2026-08-30
+    release: 14
+    mergedPR: 1178
+    openPR: 27
+    closedIssue: 124
+    openIssue: 33
+    commit: 3472
   last180d:
-    since: 2026-05-31
-    release: 19
-    mergedPR: 1766
-    openPR: 35
-    closedIssue: 200
-    openIssue: 34
-    commit: 5550
+    since: 2026-06-01
+    release: 20
+    mergedPR: 1775
+    openPR: 28
+    closedIssue: 201
+    openIssue: 38
+    commit: 5600
   last360d:
-    since: 2025-12-02
-    release: 32
-    mergedPR: 2822
-    openPR: 35
-    closedIssue: 368
-    openIssue: 48
-    commit: 9413
+    since: 2025-12-03
+    release: 33
+    mergedPR: 2842
+    openPR: 28
+    closedIssue: 369
+    openIssue: 52
+    commit: 9463
   last720d:
-    since: 2024-12-07
-    release: 32
-    mergedPR: 3518
-    openPR: 35
-    closedIssue: 524
-    openIssue: 57
-    commit: 11412
+    since: 2024-12-08
+    release: 33
+    mergedPR: 3538
+    openPR: 28
+    closedIssue: 525
+    openIssue: 61
+    commit: 11461
 total:
-  release: 33
-  mergedPR: 3735
-  openPR: 35
-  closedIssue: 609
-  openIssue: 59
-  commit: 12541
+  release: 34
+  mergedPR: 3757
+  openPR: 28
+  closedIssue: 610
+  openIssue: 63
+  commit: 12590
 ---
 path: /home/runner/.x-repo/github.com/lightpanda-io/browser
-collectedAt: 2026-11-27T09:59:26Z
+collectedAt: 2026-11-28T09:01:35Z
 loc:
   Zig:
-    code: 255184
-    comments: 39261
-    blanks: 39538
-    files: 713
+    code: 256611
+    comments: 39442
+    blanks: 39687
+    files: 715
   Html:
-    code: 15037
-    comments: 1289
-    blanks: 4993
-    files: 678
+    code: 15125
+    comments: 1297
+    blanks: 5025
+    files: 682
   Rust:
     code: 4141
     comments: 317
@@ -167,15 +167,15 @@ loc:
     files: 10
   Text:
     code: 0
-    comments: 22012
+    comments: 22014
     blanks: 2
     files: 3
 total:
-  code: 344448
-  comments: 70591
-  blanks: 54420
-  files: 1565
+  code: 346476
+  comments: 70842
+  blanks: 54651
+  files: 1571
 ---
 
 ---
-{"id":452762929,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOI67vws4a_J0x","tag_name":"1.0.5","target_commitish":"main","name":"1.0.5","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-19T13:55:47Z","updated_at":"2026-11-20T14:40:42Z","published_at":"2026-11-20T14:02:38Z","assets":[{"id":772080360,"node_id":"RA_kwDOI67vws4uBQLo","name":"lightpanda-aarch64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":75206728,"digest":"sha256:7527391c479f323eb9111b834b012d91a89057528c28ef027741b21739b12299","download_count":1587,"created_at":"2026-11-20T14:12:40Z","updated_at":"2026-11-20T14:12:43Z"},{"id":772080565,"node_id":"RA_kwDOI67vws4uBQO1","name":"lightpanda-aarch64-linux.debug","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":51228824,"digest":"sha256:109e369d8167df3ee320d36a93dd9b8ee112cc31a937dcecc6bcea0bb599c061","download_count":44,"created_at":"2026-11-20T14:12:44Z","updated_at":"2026-11-20T14:12:46Z"},{"id":772052015,"node_id":"RA_kwDOI67vws4uBJQv","name":"lightpanda-aarch64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":91999720,"digest":"sha256:eec3781086ee512320a04b036f092806a8a959944ea78fc8f4fe7dfe215a84b4","download_count":1728,"created_at":"2026-11-20T14:04:46Z","updated_at":"2026-11-20T14:04:49Z"},{"id":772044887,"node_id":"RA_kwDOI67vws4uBHhX","name":"lightpanda-docs.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":16820,"digest":"sha256:a913f37e872b1b65792489fa83b3b00869cfa21665221b03e8f808698a60cfd9","download_count":96,"created_at":"2026-11-20T14:02:44Z","updated_at":"2026-11-20T14:02:45Z"},{"id":772044597,"node_id":"RA_kwDOI67vws4uBHc1","name":"lightpanda-x86_64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":78026056,"digest":"sha256:0ec21fa4867ab9e82b35285ff4ab0e7336c6c1d89f26fe991f27d73c8a678bd7","download_count":3052,"created_at":"2026-11-20T14:02:39Z","updated_at":"2026-11-20T14:02:42Z"},{"id":772044783,"node_id":"RA_kwDOI67vws4uBHfv","name":"lightpanda-x86_64-linux.debug","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":49010880,"digest":"sha256:206d9333aaaf1ef2fe105f8f9ce36de910cb6c188d06da7987915e5455d78063","download_count":52,"created_at":"2026-11-20T14:02:42Z","updated_at":"2026-11-20T14:02:44Z"},{"id":772073034,"node_id":"RA_kwDOI67vws4uBOZK","name":"lightpanda-x86_64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":96121539,"digest":"sha256:2b75c9fee5c36d5d840f7938df6a532074bec03bf0485c3130b28597999a66fe","download_count":156,"created_at":"2026-11-20T14:10:44Z","updated_at":"2026-11-20T14:10:48Z"},{"id":772082899,"node_id":"RA_kwDOI67vws4uBQzT","name":"lightpanda_1.0.5_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":20195156,"digest":"sha256:f04d1e6312c3aa8339b859b8d1348687ddfaf489b843178020c63f1c754178b4","download_count":230,"created_at":"2026-11-20T14:13:29Z","updated_at":"2026-11-20T14:13:30Z"},{"id":772083160,"node_id":"RA_kwDOI67vws4uBQ3Y","name":"lightpanda_1.0.5_arm64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":18016532,"digest":"sha256:9871b83085a758dc2ae4a59959e8872835ec6cf707966d4814cb484612fc80cd","download_count":112,"created_at":"2026-11-20T14:13:34Z","updated_at":"2026-11-20T14:13:35Z"}],"body":"## Behavior changes\r\n- PandaScript: `page.evaluate()` now returns a promise, like `page.goto()`. Saved scripts need `await` in front of every `page.evaluate(...)`. Several evaluates can now run at once with `Promise.all`.\r\n- `--v8-gc-hint-floor-mb` is renamed `--v8-gc-request-min-mb`. The old name still works but is deprecated.\r\n- New `--v8-gc-auto-min-mb`, default 32: V8 doesn't start a full GC on its own below this heap size. `0` keeps V8's default.\r\n- `classify`, `acceptCookies` and `login` can use Gemini, but only with `LIGHTPANDA_DECISION_PROVIDER=gemini`. TypeSafe stays the default.\r\n- `agent --save` replays a read-only script once before writing it. If the replay fails or returns nothing, the model gets one turn to fix the script, and the first script is kept, with a warning, when the fix doesn't replay. Scripts that act on a page are written unchecked.\r\n- A fetch or XHR whose connection drops before the end of a `Content-Length` or chunked body now fails, instead of resolving as a complete 200.\r\n- `history.pushState`/`replaceState` to a URL of another origin throws a `SecurityError`.\r\n- Responses served from the HTTP cache now go through CORS checks.\r\n- `document.currentScript` is `null` while a module runs.\r\n- The `goto` timeout (script API and MCP tool) now bounds the navigation wait, even while a parser-blocking script is loading.\r\n- Mouse hit testing skips `inert` subtrees.\r\n\r\n## Layout\r\n- More realistic `top` and `height`, with awareness of positioned boxes, tables and text\r\n- `display: grid` support\r\n- `em`, `rem` and basic `calc()` lengths; `min-height` and `max-height`\r\n- Text wrapping uses the computed width\r\n- Hit testing: positioned boxes are above the normal flow, negative `z-index` below it\r\n- Layout, hit testing and bounding rects are much faster (style caches are cleared only where a change can reach)\r\n\r\n## New Web APIs\r\n- `NavigateEvent.intercept()`\r\n- `ReadableStream.tee()` and `values()`\r\n- `XMLHttpRequest.upload` progress events\r\n- `Attr.specified`\r\n\r\n## Web API behavior / fixes\r\n- XHR: re-opening a request in flight doesn't fire `abort`/`loadend`; `responseType = 'document'` is ignored in a worker\r\n- WebSocket `close()` while connecting moves to `CLOSING` and queues a `close` event\r\n- `Request` keeps the case of methods other than the six standard ones\r\n- `fetch` with `redirect: 'manual'` keeps the URL\r\n- The `formdata` event gets its own copy of the `FormData`\r\n- `ResizeObserver` starts from a size of -1×-1\r\n- IndexedDB: a pending request keeps its JS object until its event fires (fixes Zone.js apps)\r\n\r\n## CDP\r\n- Playwright can use the default context before any page: `context.addCookies()` works, and `page.close()` on the startup page no longer hangs\r\n- `DOM.getBoxModel` returns Chrome's error for an element under `display: none`\r\n- `Accessibility.getFullAXTree` reports the selected option's label as a combobox value\r\n- `LP.dump` `withFrames` option: include iframe content in the HTML dump\r\n- Crash fix in request interception on an aborted transfer\r\n\r\n## WebDriver\r\n- `/alert` commands answer `no such alert`\r\n- Element `/displayed`, `/computedrole` and `/computedlabel`\r\n- Shadow root endpoints: `/element/{id}/shadow`, `/shadow/{id}/element`, `/shadow/{id}/elements`\r\n- Sessions accept `acceptInsecureCerts`\r\n\r\n## BiDi\r\n- `script.addPreloadScript` and `script.removePreloadScript` (no `arguments` yet)\r\n\r\n## Tools / MCP / Agent\r\n- `lightpanda mcp --tools goto,tree,...` exposes only the named tools; `--list-tools` prints every name\r\n- MCP over HTTP: memory is returned to the OS when a session ends, and the idle default session closes its pages after `--http-session-timeout`\r\n- PandaScript `page.getCookies()`\r\n- `lightpanda run` and `agent` now apply `--cookie` and `--cookie-jar`\r\n- Markdown: definition list terms and details go on their own lines\r\n\r\n## Performance / memory\r\n- Stylesheets with `--load-resources stylesheet` are preloaded in parallel\r\n- Smaller CSS DOM: rules are created only when JS reads them, `@media`/`@layer`/`@supports` parsed once\r\n- Smaller nodes and elements (a `div` goes from 80 to 64 bytes)\r\n- The page HTML is held once instead of three times (CNN peak memory 65 MB → 54 MB)\r\n- `fetch()` takes the response body instead of copying it\r\n- Semantic tree uses less memory (HTML spec: 249 MB → 154 MB)\r\n- Faster `getComputedStyle`, `nodeList[i]` and object wrapping","reactions":{"total_count":7,"+1":4,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":3,"eyes":0}}
+{"id":460546085,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOI67vws4bc2Al","tag_name":"1.0.6","target_commitish":"main","name":"1.0.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-25T11:54:56Z","updated_at":"2026-11-27T12:32:10Z","published_at":"2026-11-27T11:58:52Z","assets":[{"id":800316990,"node_id":"RA_kwDOI67vws4vs94-","name":"lightpanda-aarch64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":74092616,"digest":"sha256:26e0042a52f493d8cc1b04faef42aea9b46bef9ccfcc86170098bd330c19a890","download_count":65,"created_at":"2026-11-27T12:00:06Z","updated_at":"2026-11-27T12:00:08Z"},{"id":800317090,"node_id":"RA_kwDOI67vws4vs96i","name":"lightpanda-aarch64-linux.debug","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":50362496,"digest":"sha256:f6dca304192ae43e4df44d4fc66ee0420da1c842afdfcb79f33375f46fc94f21","download_count":17,"created_at":"2026-11-27T12:00:09Z","updated_at":"2026-11-27T12:00:10Z"},{"id":800324100,"node_id":"RA_kwDOI67vws4vs_oE","name":"lightpanda-aarch64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":91018840,"digest":"sha256:1a27a8692bc0e3821fbcbd5108608ef5233d2d64097ff0cf7837d1be9fe3f03b","download_count":332,"created_at":"2026-11-27T12:02:14Z","updated_at":"2026-11-27T12:02:18Z"},{"id":800329627,"node_id":"RA_kwDOI67vws4vtA-b","name":"lightpanda-docs.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":17081,"digest":"sha256:bc9288b2d651e8eea01345467fbe48e62f32ed632d45ab0f911ba02ea7f7572a","download_count":16,"created_at":"2026-11-27T12:04:03Z","updated_at":"2026-11-27T12:04:03Z"},{"id":800329252,"node_id":"RA_kwDOI67vws4vtA4k","name":"lightpanda-x86_64-linux","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":76649800,"digest":"sha256:a9bff4c0b8498433cd16d8165a5e5b47181e5690d4c8e1f011d601f1f2e8a467","download_count":1817,"created_at":"2026-11-27T12:03:56Z","updated_at":"2026-11-27T12:03:59Z"},{"id":800329432,"node_id":"RA_kwDOI67vws4vtA7Y","name":"lightpanda-x86_64-linux.debug","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":48168040,"digest":"sha256:b6f0a7309e2f2eb8ab0e516303e606836e5925356dae48e963c1085709f4ae7f","download_count":13,"created_at":"2026-11-27T12:04:00Z","updated_at":"2026-11-27T12:04:02Z"},{"id":800313313,"node_id":"RA_kwDOI67vws4vs8_h","name":"lightpanda-x86_64-macos","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":94759402,"digest":"sha256:d2bb233b444a075057cd48a1da88d45c640e292a9de85ceff026793b091e126d","download_count":25,"created_at":"2026-11-27T11:58:53Z","updated_at":"2026-11-27T11:58:57Z"},{"id":800332015,"node_id":"RA_kwDOI67vws4vtBjv","name":"lightpanda_1.0.6_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":20032876,"digest":"sha256:5a25f01ff39608fcdb6e7db6650fb145aef69b463b1598b0ee3266734e6b5b23","download_count":36,"created_at":"2026-11-27T12:04:48Z","updated_at":"2026-11-27T12:04:49Z"},{"id":800332017,"node_id":"RA_kwDOI67vws4vtBjx","name":"lightpanda_1.0.6_arm64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":17929420,"digest":"sha256:36828d3cca19562d598d956375a88e9100e00b8087b7694e7ae7a0d086f173a1","download_count":28,"created_at":"2026-11-27T12:04:48Z","updated_at":"2026-11-27T12:04:49Z"}],"body":"## Behavior changes\r\n- Screenshots now use the layout engine: `Page.captureScreenshot`, BiDi screenshots and `fetch --dump png` draw boxes where `getBoundingClientRect` puts them. `--png-mode reader` gives the old one-column text rendering. The agent's `/screenshot` keeps `reader` by default (`mode=` to change it). PDF is always `reader`.\r\n- `Page.getLayoutMetrics` now comes from the layout engine, and the root container is as wide as the viewport instead of a fixed 1920px.\r\n- CORS: a `*` in `Access-Control-Allow-Headers` now covers `Authorization`, as every browser does.\r\n- A response with no declared charset that is clearly not UTF-8 is decoded as windows-1252.\r\n- CDP: `DOM`, `CSS`, `Accessibility` and `Input` commands (other than `enable`/`disable`) now fail on the startup placeholder target.\r\n\r\n## Serve / CLI\r\n- `--cdp-allow-timezone-override`: lets `Emulation.setTimezoneOverride` change the time zone used by `Date` and `Intl`. The zone is shared by the whole process. Without the flag, the command is accepted and ignored with a warning\r\n- `--png-mode layout|reader` for `fetch --dump png`\r\n- `agent --temperature <FLOAT>`\r\n\r\n## Layout\r\n- Padding and `box-sizing`\r\n- Margins move boxes horizontally; `margin: 0 auto` centers, `margin-left: auto` pushes right\r\n- `gap`, `row-gap` and `column-gap` in flex layouts; text between flex items counts as an item\r\n- `bottom` sizes a fixed or absolute box\r\n- Every `z-index` value is used for hit testing\r\n- `html` and `body` take their declared height (`height: 100%`); `canvas` and `video` without a size are 300×150\r\n- Every `display` value is tracked, for layout and `getComputedStyle`\r\n\r\n## New Web APIs\r\n- `navigator.clipboard.readText()` and `writeText()` (a per-session buffer, never the system clipboard; secure contexts only)\r\n- `HTMLMediaElement` timeline: `duration`, a `currentTime` that advances while playing, seeking, `ended`, `loop` and the matching events (nothing is decoded or played)\r\n- `ReadableStreamDefaultReader.closed`\r\n- `OffscreenCanvas` is an `EventTarget` (Flutter web apps now start)\r\n\r\n## Web API behavior / fixes\r\n- CSS rules inside an `@supports` block are applied when the condition holds\r\n- Streams: `pull()` waits for `start()` and for its own previous call, and runs again when a read waits (fixes Next.js 16 prefetch streams); `cancel()` handles a returned promise, and both `tee()` branches share one cancel promise\r\n- XML parsing keeps namespace declarations (`xmlns`, `xmlns:b`) and creates `CDATASection` nodes\r\n\r\n## CDP\r\n- `Emulation.setTimezoneOverride` applies the zone (with `--cdp-allow-timezone-override`) and rejects unknown zone ids\r\n- `LP.detectForms` `includeValidation` option: returns each field's validation message\r\n\r\n## BiDi\r\n- `script.addPreloadScript`\r\n- `script.getRealms`\r\n- `browsingContext.captureScreenshot`\r\n- `browsingContext.handleUserPrompt`, and a new `lp.handleUserPrompt`, like CDP's `LP.handleJavaScriptDialog`\r\n\r\n## Tools / MCP\r\n- `detectForms` `includeValidation` option: returns each field's validation message, so an agent can read why a form was rejected\r\n\r\n## Performance / memory\r\n- Startup no longer loads every CA certificate twice (about 30% of a simple `fetch`)\r\n- Semantic tree dumps register far fewer nodes (HTML spec: 672k → 314k)\r\n- `getBoundingClientRect` and other `DOMRect` returns skip the identity map\r\n- Less memory for the identity map, cloned attributes, inline scripts, selectors, node lists and PNG rendering (drawn 128 rows at a time)\r\n- Faster style matching: better `:where()` bucketing, an ancestor bloom filter, and selectors that can never match are dropped\r\n- A class change that can't move a box no longer clears the layout cache","reactions":{"total_count":3,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":2,"eyes":0}}
